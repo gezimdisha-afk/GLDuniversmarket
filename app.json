@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "GLD Univers Market",
+    "slug": "gld-univers-market",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "gldmarket",
+    "plugins": ["expo-router"],
+    "ios": {"supportsTablet": true, "bundleIdentifier": "al.glduniversmarket.app"},
+    "android": {"package": "al.glduniversmarket.app"}
+  }
+}
